@@ -1,6 +1,6 @@
-# NodePipleine
+# NodePipeline
 
-**NodePipleine** is a dynamic pipeline builder and visualization tool. It allows users to create, connect, and manage nodes in a visual interface, with real-time updates and backend validation. This project demonstrates full-stack development skills using React for the frontend and FastAPI for the backend.
+**NodePipeline** is a dynamic pipeline builder and visualization tool. It allows users to create, connect, and manage nodes in a visual interface, with real-time updates and backend validation. This project demonstrates full-stack development skills using React for the frontend and FastAPI for the backend.
 
 ---
 
